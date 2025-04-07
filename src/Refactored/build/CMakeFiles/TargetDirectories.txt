@@ -1,3 +1,0 @@
-C:/Users/1frew/Desktop/Code/Projects/Misc/171KaskCPPCheckers/src/Refactored/build/CMakeFiles/Checkers.dir
-C:/Users/1frew/Desktop/Code/Projects/Misc/171KaskCPPCheckers/src/Refactored/build/CMakeFiles/edit_cache.dir
-C:/Users/1frew/Desktop/Code/Projects/Misc/171KaskCPPCheckers/src/Refactored/build/CMakeFiles/rebuild_cache.dir
