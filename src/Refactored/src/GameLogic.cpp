@@ -97,4 +97,6 @@ GameLogic::~GameLogic() {
 		delete aiList->back();
 		aiList->pop_back();
 	}
+
+    delete aiList;
 }
