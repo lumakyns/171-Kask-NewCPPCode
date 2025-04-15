@@ -55,7 +55,6 @@ std::string Move::toString() {
     return result;
 }
 
-// todo: strictify
 bool Move::isCapture() {
     return (sequence.size() > 2) || std::abs(sequence[0][0] - sequence[1][0]) > 1;
 }

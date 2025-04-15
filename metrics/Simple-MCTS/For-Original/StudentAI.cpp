@@ -121,7 +121,7 @@ Move StudentAI::UCT_MCTS() {
 
     // Step 2a: Pick the best move.
     std::pair<Move*, SearchTree*> finalPair = MCTree->selectBestMove(false);
-    Move finalMove = *(finalPair.first); // TODO: No moves
+    Move finalMove = *(finalPair.first);
 
     // Step 2b: Update the search tree
     SearchTree* oldMCTree = MCTree;
